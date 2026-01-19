@@ -1,2 +1,2 @@
 # ComingSoonPage
-Page 'coming-soon' for GrandSchool
+Page 'Comming-soon' for GrandSchool
